@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Қонақ үй "Rixos President Astana"</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .hotel-info {
+            background: #fff;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .hotel-info img {
+            float: left;
+            margin-right: 20px;
+            border-radius: 5px;
+        }
+        .hotel-info h2 {
+            margin-top: 0;
+        }
+        .hotel-info p {
+            margin-bottom: 0;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Қонақ үй "Rixos President Astana"</h1>
+    </header>
+    <div class="container">
+        <section class="hotel-info">
+            <img src="https://rixos-president-astana-hotel.hotel-ds.com/data/Imgs/700x500w/14573/1457349/1457349922/rixos-president-hotel-nur-sultan-astana-img-3.JPEG">
+            <h2>"Rixos President Astana" қонақ үйіне қош келдіңіз!</h2>
+            <p>Қазақстанның сәнді астанасында Rixos President Astana-мен сәнді демалыс өткізіңіз. Rixos President Astana Қазақстан астанасының жаңа әкімшілік және іскерлік ауданының қақ ортасында, Бәйтерек мұнарасына жақын жерде орналасқан. Өзінің футуристік сәулетімен танымал Астана сауда орталықтары мен ән шырқайтын субұрқақтарға толы заманауи қала. Онда атақты сәулетшілердің заманауи сәулет жұмыстарының бірнеше үлгісін табуға болады. Rixos President Astana-ның орталық орналасуы және бірінші дәрежелі ыңғайлылығы Rixos-тың керемет тәжірибесін ұсынады: Rixos спа, тамаша асхана мен барлар және кез келген көлемдегі кездесулер мен іс-шараларды мінсіз ұйымдастыру.</p>
+            <p>Rixos President Astana компаниясымен сіз бүкіл әлем бойынша гастрономиялық саяхатқа шығу мүмкіндігіне ие боласыз. Түпнұсқа түрік тағамдары, әлемдік тағамдар және жергілікті тағамдар кең шарап тізімі мен сусындардың үлкен таңдауы бар талғампаз тандемді құрайды. </p>
+        </section>
+    </div>
+</body>
+</html>
